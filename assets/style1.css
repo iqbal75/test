@@ -1,0 +1,23 @@
+body {
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+	background: url(44.jpg);
+	background-position: 100% 10%;
+	background-size: cover;
+	color: white;
+
+} 
+
+.jumbotron-fluid {
+	background: rgba(0,0,0,.5);
+	box-shadow: 0 15px 25px rgba(0,0,0,.5);
+	text-align: center;
+}
+
+.navbar-expand-lg {
+	background: url(45.jpg);
+	
+}
+
+

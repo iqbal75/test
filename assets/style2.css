@@ -1,0 +1,22 @@
+body {
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+	background: url(44.jpg);
+	background-position: 100% 10%;
+	background-size: cover;
+	font-style: bold;
+
+}
+
+h1 {
+	color: white;
+}
+
+.box {
+	background: rgba(0,0,0,.3);
+	box-shadow: 0 15px 25px rgba(0,0,0,.5);
+	position: absolute;
+	margin-left: 25%;
+	height: auto;
+}
